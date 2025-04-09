@@ -23,4 +23,4 @@ I support strengthening cooperation among liberal democracies to help strengthen
 
 ### Kindness & Respect
 
-Treating colleagues - and being treated by colleagues - with kindness and respect is important to me in a workplace. 
+Treating colleagues - and being treated by my colleagues - with kindness and respect is important to me in a workplace. 
