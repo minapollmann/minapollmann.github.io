@@ -11,7 +11,7 @@ As part of obtaining my PhD in political science from MIT, I was trained in qual
 
 ### Public Engagement
 
-I also have excellent synthesis and communication skills. I can synthesize ideas and write with high speed and high clarity. Furthermore, I am adept at tailoring my writing to different audiences and different formats. Longer form work includes peer-reviewed articles such as <a href="https://www.tandfonline.com/doi/abs/10.1080/10357718.2015.1034088?journalCode=caji20">"Australia's submarine technology cooperation with Japan as burden-sharing with the USA in the Asia-Pacific"</a>, and shorter form work includes pieces I have written for <a href="https://thediplomat.com/authors/mina-pollmann/">*The Diplomat*</a> and various other outlets. My strong writing skills have also made me successful in receiving competitive fellowships from the National Science Foundation and Harvard University's Belfer Center for Science and International Affairs. I also have excellent verbal and visual communication skills. I have given multiple talks at MIT, and also at <a href="https://ceas.yale.edu/events/why-risk-alliance-evidence-japan-1901-1960">Yale University</a> and the <a href="https://tcjs.u-tokyo.ac.jp/archives/1373">University of Tokyo</a>. 
+I have extensive experience with public engagement: including giving talks and lectures; writing peer-reviewed articles, op-eds, think pieces, and book reviews; hosting and speaking on podcasts; and moderating public panels. I have given multiple talks at MIT, and also at <a href="https://ceas.yale.edu/events/why-risk-alliance-evidence-japan-1901-1960">Yale University</a> and the <a href="https://tcjs.u-tokyo.ac.jp/archives/1373">University of Tokyo</a>. 
 
 ### Relationship Management
 

@@ -1,5 +1,5 @@
 ---
-title: "With Rutte Visit, Japan and NATO Seek ‘Next Level’ of Cooperation!"
+title: "With Rutte Visit, Japan and NATO Seek ‘Next Level’ of Cooperation"
 date: 2025-04-09
 categories: [blog]
 tags: [Japan, NATO, The Diplomat]
