@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: "Values"
+title: "Values, Skills & Interests"
 permalink: /values/
-author_profile: false
+author_profile: true
 ---
 
 
@@ -13,3 +13,26 @@ I care about the real world and doing good in it. I prioritize analysis that all
 ### Originality
 
 I am inspired when I am doing original work, which requires a mix of creativity and courage. In my line of work, I tend to find that this also means being willing to point out contradictions or difficult trade-offs others ignore, and looking ahead of others at future challenges and opportunities. It was in this spirit that I wrote on the <a href="https://www.tokyoreview.net/2019/06/us-japan-embrace-unequal-alliance/">need to recalibrate US and Japanese expectations for the alliance to be more realistic</a> and the <a href="https://www.tokyoreview.net/2021/02/japan-can-remain-an-important-u-s-ally-despite-demographic-challenges/">impact of Japan's aging on the functioning of the US-Japan alliance</a> for The Tokyo Review.
+
+
+### Research & Analysis
+
+I have excellent research and analysis skills. A key element of this is the high speed and high accuracy with which I read, and my ability to analyze patterns, insights, and key takeaways from across multiple sources. For a concrete demonstration of my reading comprehension skills, specifically, see my book reviews on <a href="https://cimsec.org/by-more-than-providenceby-more-than-providence-grand-strategy-and-american-power-in-the-asia-pacific-since-1783/">*By More Than Providence: Grand Strategy and American Power in the Asia Pacific Since 1783*</a> and <a href="https://networks.h-net.org/node/28443/reviews/9356837/pollmann-midford-overcoming-isolationism-japan%E2%80%99s-leadership-east">*Overcoming Isolationism: Japan's Leadership in East Asian Security Multilateralism*</a>. Beyond just reading quickly, accurately, and widely, I am also adept at finding relevant resources - both online and physically. I have experience using politicians' personal webpages, Tweets, and digital newspaper archives as data sources, combing US and Japanese government publications to find particular pieces of data, and conducting research at the US Library of Congress in Washington, DC, and the Japanese National Diet Library and the Japanese Ministry of Foreign Affairs Archives in Tokyo. I also use Stata and R to analyze patterns, insights, and key takeaways from quantitative data, such as the <a href="http://www.atopdata.org/">Alliance Treaty Obligations and Provisions (Leeds, Ritter, Mitchell, and Long 2002)</a> dataset and the <a href="https://sites.bu.edu/cappella/confronting-the-cost-of-war-data/">Confronting the Costs of War (Zielinski 2016)</a> dataset.
+
+### Synthesis & Communication
+
+I also have excellent synthesis and communication skills. I can synthesize ideas and write with high speed and high clarity. Furthermore, I am adept at tailoring my writing to different audiences and different formats. Longer form work includes peer-reviewed articles such as <a href="https://www.tandfonline.com/doi/abs/10.1080/10357718.2015.1034088?journalCode=caji20">"Australia's submarine technology cooperation with Japan as burden-sharing with the USA in the Asia-Pacific"</a>, and shorter form work includes pieces I have written for <a href="https://thediplomat.com/authors/mina-pollmann/">*The Diplomat*</a> and various other outlets. My strong writing skills have also made me successful in receiving competitive fellowships from the National Science Foundation and Harvard University's Belfer Center for Science and International Affairs. I also have excellent verbal and visual communication skills. I have given multiple talks at MIT, and also at <a href="https://ceas.yale.edu/events/why-risk-alliance-evidence-japan-1901-1960">Yale University</a> and the <a href="https://tcjs.u-tokyo.ac.jp/archives/1373">University of Tokyo</a>. 
+
+### Expert Interviews
+
+Interviewing experts is one of my core skills. I have used expert interviews in various formal roles - including as a columnist for *The Diplomat*, a news producer for a Japanese TV broadcaster, and a risk consultant at a risk intelligence startup - as well as for independent research projects. Talking to experts and asking them thoughtful questions is one of the best ways to research a new topic. In addition to general information gathering, I try to ask questions that probe the expert to think of the issue in a new way or uncover a hidden angle. For some samples of my expert interview skills, see my published interview with <a href="https://cimsec.org/sea-control-130-stephen-biddle-future-warfare-western-pacific/">Stephen Biddle</a> on the future of warfare in the Western Pacific, and a published written piece based on my interview with <a href="https://www.blackpeakgroup.com/wp-content/uploads/2018/07/Blackpeak-RANE-Interview-David-Suzuki-Japan-Rolls-Dice-on-Legalizing-Casinos.pdf">David Suzuki</a> on the risks of casino legalization in Japan. I also relied heavily on interviews when writing for *The Diplomat* on the <a href="https://thediplomat.com/2015/10/the-truth-about-japans-defense-exports/">lifting of Japan's arms embargo</a> and on the <a href="https://thediplomat.com/2015/12/japans-controversial-state-secrets-law-one-year-later/">one-year anniversary of Japan's new state secrets law</a>. 
+
+
+
+### International Security & US Foreign Policy
+
+I have pursued my interest in international security and US foreign policy since my undergraduate days at Georgetown University, and deepened my commitment to this area of study by pursuing my PhD at MIT, which is renown for its <a href="https://ssp.mit.edu/">Security Studies Program</a>. Theoretically, my dissertation develops a seven-part typology of realist anti-alliance concerns and examines which factors facilitate alliance formation by comparing cases of successful and *failed* alliance formation. This focus on failed alliance negotiations is novel, and the conclusions underscore the importance of domestic politics as an explanation for alliance formation success or failure. I have written on international security issues and US foreign policy for <a href="https://thediplomat.com/authors/mina-pollmann/">*The Diplomat*</a> and various other outlets including <a href="https://nationalinterest.org/feature/russia-vs-japan-asias-forgotten-island-fight-15942">The National Interest</a> and <a href="https://www.eastwestcenter.org/publications/opening-australias-black-box-the-domestic-debate-over-submarine-production">Asia-Pacific Bulletin</a>.
+
+### Japanese Politics
+
+I have also pursued my interest in Japanese politics since my time at Georgetown and continued to do so at MIT. I have been invited to participate in academic and Track 1.5 conferences in Tokyo and the Washington, DC and conducted multiple research trips to Tokyo. Empirically, my dissertation focuses on Japan's diplomatic history and analyzes *the universe* of alliance negotiations Japan pursued both successfully and unsuccessfully. I have also written on Japanese politics for <a href="https://thediplomat.com/authors/mina-pollmann/">*The Diplomat*</a> and various other outlets including <a href="https://www.tokyoreview.net/author/minapollmann/">The Tokyo Review</a> and <a href="https://www.csis.org/analysis/resolved-japan-has-not-done-enough-bolster-immigration">Debating Japan (CSIS)</a>.
