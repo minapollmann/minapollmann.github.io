@@ -1,6 +1,10 @@
 # main links links
 main:
 
+  - title: "Future Research"
+    url: /future/
+
+
   - title: "Recent Activity"
     url: /recent/
 
