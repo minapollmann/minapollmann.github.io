@@ -1,9 +1,18 @@
 ---
-title: "Just moved to Haarlem"
+title: "Third Time's the Charm?"
 date: 2025-04-09
 categories: [blog]
 tags: [Netherlands, personal]
-excerpt: "Testing."
+excerpt: "From academia to policy to - what next?"
 ---
 
-Hello there!
+I created this website in 2022 to be a typical academic website, when I was still a PhD candidate at MIT.
+
+After a brief stint as Associate Political Scientist at RAND doing research for the U.S. government, I landed a dream job working for the U.S. Department of State's Japan Desk. At that time, aware of the potential for espionage activities directed against federal workers, I scrubbed this website though I stopped short of deleting it.
+
+Six weeks ago, when I could no longer support U.S. policy under the new president, I resigned from the my government job. Two days ago, I moved to Haarlem, the Netherlands, and I am refreshing this website as I start job searching.
+
+I am not sure what comes next... But as I start over professionally in a new country, I decided to use this website to document what I am up to and start building my reputation and networks (without being beholden to one of the major, monopolistic tech companies). 
+
+If you came here from my LinkedIn profile, please feel free to take a look around and get to know me! I am very interested in any Japan- and/or international security-related role. 
+
