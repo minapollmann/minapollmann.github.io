@@ -7,7 +7,7 @@ search: true
 excerpt: |
   Netherlands-based
   <br>
-  Qualitative researcher with Japanese language skills
+  Qualitative researcher with policy experience, media experience, and Japanese language skills
   <br>
   Looking for Japan- and/or security-related roles
 permalink: /
