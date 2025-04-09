@@ -13,4 +13,4 @@ Dr. Pollmann's research interests are Japan’s security and diplomacy, the U.S.
 
 She is based in Haarlem, the Netherlands, and is <b>currently looking for a Japan- and/or security-related role</b> for her next step. Dr. Pollmann has native-level fluency in English and Japanese and is beginning to learn Dutch.
 
-If you would like to connect, whether for a potential job opportunity or speaking engagement, please send me <a href="https://www.linkedin.com/in/mina-pollmann-a7712855/">a LinkedIn request</a>.
+If you would like to connect, whether for a potential job opportunity or speaking engagement, please send <a href="https://www.linkedin.com/in/mina-pollmann-a7712855/">a LinkedIn request</a>.
