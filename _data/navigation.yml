@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Values, Skills, & Interests"
+    url: /values/
+
   - title: "Future Research"
     url: /future/
 
