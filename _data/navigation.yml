@@ -10,12 +10,12 @@ main:
     url: /skills/
 
 
-  - title: "Recent Activity"
-    url: /recent/
-
-
   - title: "Future Research"
     url: /future/
+
+
+  - title: "Recent Activity"
+    url: /recent/
 
 
   - title: "About Me"
