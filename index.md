@@ -9,9 +9,9 @@ excerpt: |
   <br>
   Qualitative researcher with Japanese language skills
   <br>
-  Government, NGO, academia, and media experiences
-  <br>
   10+ years studying Japan and international security
+  <br>
+  Government, NGO, academia, and media experiences
 permalink: /
 redirect_from: 
   - /about/
