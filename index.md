@@ -11,7 +11,9 @@ excerpt: |
   <br>
   Government, NGO, academia, and media experiences
   <br>
-  Looking for Japan- and/or security-related roles
+  10+ years studying Japan and international security
+  <br>
+  Looking for my next Japan- and/or international security-related role
 permalink: /
 redirect_from: 
   - /about/
