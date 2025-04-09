@@ -16,3 +16,4 @@ I am not sure what comes next... But as I start over professionally in a new cou
 
 If you came here from my LinkedIn profile, please feel free to take a look around and get to know me! I am very interested in any Japan- and/or international security-related role. 
 
+オランダ、ヨーロッパの皆さん、何卒よろしくお願いいたします！
