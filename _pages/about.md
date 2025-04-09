@@ -11,5 +11,5 @@ Dr. Pollmann holds a Ph.D. in Political Science from MIT, and a B.S. in Foreign 
 
 Dr. Pollmann's research interests are Japan’s security and diplomacy, the U.S.-Japan alliance, alliance politics, and Indo-Pacific security. She writes on these topics regularly for <a href="https://thediplomat.com/authors/mina-pollmann/"><i>The Diplomat</i></a>. 
 
-She is based in Haarlem, the Netherlands, and is currently looking for Japan- and/or security-related research roles. Dr. Pollmann has native-level fluency in English and Japanese and is beginning to learn Dutch.
+She is based in Haarlem, the Netherlands, and is currently looking for a Japan- and/or security-related research role for her next step. Dr. Pollmann has native-level fluency in English and Japanese and is beginning to learn Dutch.
 
