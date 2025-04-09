@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent"
+title: "Recent Activity"
 permalink: /recent/
 author_profile: false
 ---
