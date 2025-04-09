@@ -2,8 +2,12 @@
 main:
 
 
-  - title: "Values, Skills, & Interests"
+  - title: "Values"
     url: /values/
+
+
+  - title: "Skills"
+    url: /skills/
 
 
   - title: "Recent Activity"
