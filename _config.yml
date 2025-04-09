@@ -275,6 +275,11 @@ compress_html:
   ignore:
     envs: development
 
+#To make the blog
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
 
 # Defaults
 defaults:

@@ -1,7 +1,8 @@
 # main links links
 main:
 
-
+  - title: "Recent"
+    url: /recent/
 
 
   - title: "About Me"
