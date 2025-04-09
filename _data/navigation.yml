@@ -2,16 +2,16 @@
 main:
 
 
+  - title: "Values, Skills & Interests"
+    url: /values/
+
+
   - title: "Recent Activity"
     url: /recent/
 
 
   - title: "Future Research"
     url: /future/
-
-
-  - title: "Values, Skills & Interests"
-    url: /values/
 
 
   - title: "About Me"
