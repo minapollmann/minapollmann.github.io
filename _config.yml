@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mina Pollmann"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mina Pollmann"
+name                     : "Mina Pollmann, PhD"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://minapollmann.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
