@@ -3,7 +3,7 @@ title: "Greetings from Haarlem!"
 date: 2025-04-09
 categories: [blog]
 tags: [Netherlands, personal]
-excerpt: "A Japan scholar in the Netherlands: Open to Work"
+excerpt: "Open to Work: A Japan scholar starting over in the Netherlands"
 ---
 
 I created this website in 2022 to be a typical academic website, when I was still a PhD candidate at MIT.
