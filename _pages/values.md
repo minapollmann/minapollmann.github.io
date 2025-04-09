@@ -19,7 +19,7 @@ I value doing original work, and there are several ways that I can do so. First,
 
 ### Democracy & Liberalism
 
-I support strengthening cooperation among liberal democracies to help strengthen liberal democracies and spread liberal and democratic ideals and practices. 
+I support strengthening cooperation among liberal democracies to help make liberal democracies safer, stronger, and more prosperous. I also support helping make the world a safer place for liberal and democratic ideals and practices to spread. 
 
 ### Kindness & Respect
 
