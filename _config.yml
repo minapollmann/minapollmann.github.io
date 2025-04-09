@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mina Pollmann"
+title                    : "Mina Pollmann, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mina Pollmann, PhD"
+name                     : "Mina Pollmann"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://minapollmann.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
