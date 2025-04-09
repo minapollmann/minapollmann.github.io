@@ -16,7 +16,7 @@ There are several broad questions I would like to explore. Specifically:
     <li>How will Japan and European democracies respond to the transactionalist turn in U.S. foreign policy?</li>
     <li>How will Japan and other U.S. allies respond to (limited) U.S. retrenchment?</li>
     <li>How will Japan and other U.S. allies respond to the return of multipolarity?</li>
-    <li>Will Japan be more effective in achieving its foreign policy objectives and security if it approaches European democracies as an independent actor or U.S. proxy?</li>
+    <li>Will Japan be more effective in achieving its foreign policy objectives and security if it approaches European democracies as an independent actor or as a U.S. proxy?</li>
     <li>What are future areas of Japan-Europe security cooperation?</li>
     <li>How are security challenges in the Indo-Pacific and Euro-Atlantic linked? What can be done by Japan to help address security challenges in the Euro-Atlantic and by European democracies to address security challenges in the Indo-Pacific?</li>
   </ul>
