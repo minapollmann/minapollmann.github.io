@@ -16,3 +16,11 @@ I also understand the importance of shaping public opinion for policymaking, and
 ### Originality
 
 I value doing original work, and there are several ways that I can do so. First, looking ahead at future challenges before they become the subject of mainstream research (e.g., <a href="https://www.tokyoreview.net/2021/02/japan-can-remain-an-important-u-s-ally-despite-demographic-challenges/">the national security implications of Japan's aging</a>). Second, being willing to point out uncomfortable contradictions or painful trade-offs, whether to provoke debate and analysis <i>or</i> to propagate new perspectives if they are backed by rigorous, objective analysis (e.g., <a href="https://www.tokyoreview.net/2019/06/us-japan-embrace-unequal-alliance/">Japan <i>may</i> be a more effective U.S. ally by focusing on its regional responsibilities than trying to take on more global responsibilities</a>). Third, focusing not just on what worked to draw lessons for the future, but also on what <i>failed</i> (e.g., <a href="https://dspace.mit.edu/handle/1721.1/152841?show=full">comparing successful and <i>failed</i> alliance negotiations that Japan was a party to surfaced the important role of domestic politics in successful alliance formation</a>). These are just same ways that I have been original in my past work; whatever my new role, I am committed to bringing the same spirit of courage and creativity. 
+
+### Democracy & Liberalism
+
+I support strengthening cooperation among liberal democracies to help strengthen liberal democracies and spread liberal and democratic ideals and practices. 
+
+### Kindness & Respect
+
+Treating colleagues - and being treated by colleagues - with kindness and respect is important to me in a workplace. 
