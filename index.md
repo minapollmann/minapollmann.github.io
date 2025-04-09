@@ -5,10 +5,11 @@ header:
   overlay_filter: 0.25
 search: true
 excerpt: |
-  PhD in Political Science, MIT
+  Netherlands-based
   <br>
-  BS in Foreign Service, Georgetown University
+  Qualitative researcher with Japanese language skills
   <br>
+  Looking for Japan- and/or security-related roles
 permalink: /
 redirect_from: 
   - /about/
