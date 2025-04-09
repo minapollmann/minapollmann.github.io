@@ -2,5 +2,5 @@
 layout: home
 title: "Recent Activity"
 permalink: /recent/
-author_profile: false
+author_profile: true
 ---
