@@ -2,7 +2,7 @@
 layout: splash
 title: "Future Research"
 permalink: /future/
-author_profile: false
+author_profile: true
 ---
 
 ###Future Research
