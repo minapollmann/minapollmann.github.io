@@ -1,15 +1,17 @@
 # main links links
 main:
 
-  - title: "Values, Skills, & Interests"
-    url: /values/
+
+  - title: "Recent Activity"
+    url: /recent/
+
 
   - title: "Future Research"
     url: /future/
 
 
-  - title: "Recent Activity"
-    url: /recent/
+  - title: "Values, Skills, & Interests"
+    url: /values/
 
 
   - title: "About Me"
