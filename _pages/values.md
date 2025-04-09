@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Values, Skills & Interests"
+title: "Values, Skills, & Interests"
 permalink: /values/
 author_profile: true
 ---
