@@ -9,7 +9,7 @@ author_profile: false
 
 The direction of my research will admittedly depend on what my next job is. However, broadly speaking, I am interested in researching the future of Japan-Europe relations and how U.S. allies will respond to the second Trump administration. 
 
-There are several broad questions I would like to explore. Specifically:
+There are several broad questions I could explore. Specifically:
 
   <ul>
     <li>How will Japan and European democracies respond to the shift from U.S. liberal hegemony to illiberal hegemony?</li>
