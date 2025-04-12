@@ -24,10 +24,10 @@ There are several broad questions I could explore. Specifically:
 
 I have several research tools that I can use to start answering parts of these questions, including: 
   <ul>
-    <li>Interviews: directly ask those involved in policymaking today about their efforts and objectives, how they think about what they are doing</li>
-    <li>Wargames: draw on the experience of policymakers and knowledge of experts to simulate how countries will react in situations that they have not encountered yet</li>
-    <li>Historical research: draw on primary and secondary sources to analyze how countries have reacted to similar situations in the past (with careful consideration of how the future is different from the past)</li>
-    <li>Surveys and survey experiments: directly ask the public how their policy preferences are evolving in response to current developments and manipulate the information they are presented with to understand how their policy preferences might evolve in a possible future</li>
+    <li>Interviews: directly ask those involved in policymaking today about their efforts and objectives, how they think about what they are doing.</li>
+    <li>Wargames: draw on the experience of policymakers and knowledge of experts to simulate how countries will react in situations that they have not encountered yet.</li>
+    <li>Historical research: draw on primary and secondary sources to analyze how countries have reacted to similar situations in the past (with careful consideration of how the future is different from the past).</li>
+    <li>Surveys and survey experiments: directly ask the public how their policy preferences are evolving in response to current developments and manipulate the information they are presented with to understand how their policy preferences might evolve in a possible future.</li>
   </ul>
 
 Again, at this point, the direction of my future research is likely to be driven by my next job, and I am open-minded to other lines of Japan- and/or international security-related work.
