@@ -6,4 +6,4 @@ tags: [US, The Philippines, Japan, The Diplomat]
 excerpt: "In previewing the drills, military officials mentioned not only the disputed waterway but also the potential deterrent effect in the Taiwan Strait."
 ---
 
-To read my article on the start of Balikatan exercises this week, click <a href="https://thediplomat.com/2025/04/us-philippines-begin-balikatan-annual-drills-with-south-china-sea-in-mind/">here</a>.
+To read my article on the start of Balikatan exercises in the Philippines this week, click <a href="https://thediplomat.com/2025/04/us-philippines-begin-balikatan-annual-drills-with-south-china-sea-in-mind/">here</a>.
