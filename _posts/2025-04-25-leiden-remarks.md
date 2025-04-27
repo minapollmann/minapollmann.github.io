@@ -15,6 +15,6 @@ On April 25, I had the honor of sharing my thoughts on alliances in this uncerta
    max_width="300px"
    %}
 
-I focused on three key messages. To Japan, I reiterated the importance of building up Japan's own defense capabilities. To European democracies, I emphasized the importance of working together more effectively in the security realm. To international relations scholars, I advocated for a renewed focus on studying the domestic political foundations of alliance policymaking.
+I focused on three key messages. To **Japan**, I reiterated the importance of building up Japan's own defense capabilities. To **European democracies**, I emphasized the importance of working together more effectively in the security realm. To **international relations scholars**, I advocated for a renewed focus on studying the domestic political foundations of alliance policymaking.
 
 Feel free to reach out to me on <a href="https://www.linkedin.com/in/mina-pollmann-a7712855/">LinkedIn</a> if you would like to see a transcript of the full remarks or otherwise discuss these topics!
