@@ -12,7 +12,7 @@ On April 25, I had the honor of sharing my thoughts on alliances in this uncerta
    image_path="images/hjd_symposium.jpg"
    alt="Mina Pollmann giving remarks"
    caption="At the Leiden University Institute of Security and Global Affairs, The Hague."
-   width="80%"
+   width="50%"
    %}
 
 I focused on three key messages. To Japan, I reiterated the importance of building up Japan's own defense capabilities. To European democracies, I emphasized the importance of working together more effectively in the security realm. To international relations scholars, I advocated for a renewed focus on studying the domestic political foundations of alliance policymaking.
