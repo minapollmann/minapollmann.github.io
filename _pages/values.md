@@ -7,7 +7,7 @@ author_profile: false
 
 ### Policy Relevance & Societal Impact
 
-Ever since I completed my PhD, I sought a career with policy impact: starting with a research role at RAND, which conducts research on behalf of the U.S. Department of Defense (among other sponsors), and then working as a civil servant for the U.S. Department of State. Though I resigned due to policy differences with the Trump administration, I found public service to be incredibly meaningful, and whatever I do next, it is important that my work has policy relevance and societal impact. 
+Ever since I completed my PhD, I sought a career with policy impact: starting with a research role at RAND, which conducts research on behalf of the U.S. Department of Defense (among other sponsors), and then working as a civil servant for the U.S. Department of State. I found public service to be incredibly meaningful, and whatever I do next, it is important that my work has policy relevance and societal impact. 
 
 Having had policy experience, I understand what kinds of research is relevant for policymakers - both in the sense of what is immediately actionable for them and what is important context for them to have when they make decisions that take longer to gestate but also have longer-term effects. On a day-to-day basis, the kind of snap analyses I do for <a href="https://thediplomat.com/authors/mina-pollmann/"><i>The Diplomat</i></a> is more useful for increasing the accuracy of bureaucrats' tactical, situational awareness; at a higher level of abstraction, the kind of research I contributed to at <a href="https://www.rand.org/pubs/authors/p/pollmann_mina.html">the RAND Corporation</a> helps policymakers better understand the world and make informed, strategic-level decisions. 
 
