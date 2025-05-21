@@ -2,7 +2,7 @@
 title: "Remarks at Japan Between the East and West Symposium"
 date: 2025-04-25
 categories: [blog]
-tags: [Netherlands, public speaking, alliance policy, Japan, Europe]
+tags: [The Netherlands, public speaking, alliance policy, Japan, Europe]
 excerpt: "Thoughts on alliance policy in an era of global uncertainty."
 ---
 
