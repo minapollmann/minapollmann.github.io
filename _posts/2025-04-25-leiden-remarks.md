@@ -1,5 +1,5 @@
 ---
-title: "Remarks at Japan Between the East and West Symposium"
+title: "Remarks: Japan Between the East and West Symposium"
 date: 2025-04-25
 categories: [blog]
 tags: [The Netherlands, public speaking, alliance policy, Japan, Europe]
