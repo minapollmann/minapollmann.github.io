@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am currently the Japan Research Fellow with the Leiden Asia Centre. My research interests are Japan’s security and diplomacy, the U.S.-Japan alliance, alliance politics, and Indo-Pacific security, and I regularly write on these topics for <a href="https://thediplomat.com/authors/mina-pollmann/"><i>The Diplomat</i></a>. I am also available to give guest lectures on any of these topics, and have recently spoken at the University of Amsterdam, Georgetown University, and the U.S. Foreign Service Institute.
+I am currently the Japan Research Fellow with the Leiden Asia Centre. My research interests are Japan’s security and diplomacy, the U.S.-Japan alliance, alliance politics, and Indo-Pacific security, and I regularly write on these topics for <a href="https://thediplomat.com/authors/mina-pollmann/"><i>The Diplomat</i></a>. I am also available to give guest lectures on any of these topics, and have recently spoken at Georgetown University, the Centre for Security, Diplomacy, and Strategy, and the U.S. Foreign Service Institute.
 
 Previous work experiences include: Presidential Management Fellow with the U.S. Department of State's Office of Japanese Affairs; Associate Political Scientist with <a href="https://www.rand.org/pubs/authors/p/pollmann_mina.html">the RAND Corporation</a>'s Defense and Political Science Department; and News Producer for TV Tokyo's Washington, DC Bureau.
 
