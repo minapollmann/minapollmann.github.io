@@ -11,6 +11,4 @@ Previous work experiences include: Presidential Management Fellow with the U.S. 
 
 I have a Ph.D. in Political Science from MIT, and a B.S. in Foreign Service from Georgetown University. My doctoral dissertation examined <a href="https://dspace.mit.edu/handle/1721.1/152841?show=full">the Political Origins of Alliances</a> using historical cases from Japan. I was awarded the National Science Foundation Graduate Research Fellowship to support my dissertation research, and I have held visiting research appointments with the Harvard Kennedy School's Belfer Center for Science and International Affairs and the University of Tokyo's Institute of Social Science.
 
-I am based in Haarlem, the Netherlands, and looking for <b>a Japan- and/or international security-related role starting in January 2026</b> for my next step. I am fluent in English and Japanese and am beginning to learn Dutch.
-
-If you would like to connect, whether for a potential job opportunity or speaking engagement, please send <a href="https://www.linkedin.com/in/mina-pollmann-a7712855/">a LinkedIn request</a>.
+I am based in Haarlem, the Netherlands. I am fluent in English and Japanese and am beginning to learn Dutch.
