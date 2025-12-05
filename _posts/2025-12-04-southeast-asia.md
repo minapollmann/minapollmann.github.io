@@ -1,9 +1,9 @@
 ---
-title: "South Korea Eyes Defense Exports to Europe, Middle East"
-date: 2025-11-25
+title: "US Steps up Defense Cooperation in Southeast Asia"
+date: 2025-12-04
 categories: [blog]
 tags: [South Korea, arms exports, The Diplomat]
-excerpt: "Seoul had apparently picked two priority regions in its quest to become a top-four global defense exporter."
+excerpt: "Washington is making progress with a range of states: from staunch ally the Philippines to newer partner Vietnam and even Cambodia, where China’s influence dominates."
 ---
 
-To read my article on how South Korea wants to go from being the world's tenth largest to the world's fourth largest arms exporter, click <a href="https://thediplomat.com/2025/10/japan-is-sending-soldiers-to-lithuania-to-train-ukrainian-troops/">here</a>.
+To read my article on how recent U.S. policy towards the Philippines, Vietnam, and Cambodia, click <a href="https://thediplomat.com/2025/12/us-steps-up-defense-cooperation-in-southeast-asia/">here</a>.
