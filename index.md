@@ -7,7 +7,7 @@ search: true
 excerpt: |
   Netherlands-based
   <br>
-  Qualitative researcher with Japanese language skills
+  Researcher with Japanese language skills
   <br>
   10+ years studying Japan and international security
   <br>
