@@ -1,5 +1,5 @@
 ---
-title: "Preparing for the Actual Worst: Supporting Japanese Internally Displaced Persons (IDPs) from Okinawa"
+title: "Leiden Asia Centre Report: Preparing for the Actual Worst - Supporting Japanese Internally Displaced Persons (IDPs) from Okinawa"
 date: 2026-01-27
 categories: [blog]
 tags: [Japan, Leiden Asia Centre]
