@@ -1,6 +1,6 @@
 ---
 title: "Centre for Security, Diplomacy, and Strategy Policy Brief: How to Manage a Patron’s Unpredictability? Japan and South Korea React to the New United States Administration"
-date: 2026-01-27
+date: 2025-12-17
 categories: [blog]
 tags: [Japan, South Korea, Centre for Security, Diplomacy, and Strategy]
 excerpt: "Analysis of how Japan and South Korea have been reacting to increased unpredictability in U.S. foreign policy."
