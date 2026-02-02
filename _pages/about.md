@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am a lecturer on alliance politics, foreign policy, international diplomacy, and international security at the University of Amsterdam (UvA) and the Vrije University of Amsterdam (VU). I am also a Researcher at the <a href="https://leidenasiacentre.nl/people/mina-pollmann/"> Leiden Asia Centre</a> and <a href="https://csds.vub.be/researcher/mina-pollmann/">Senior Associate Researcher at the Centre for Security, Diplomacy, and Strategy</a>. 
+I am a lecturer on alliance politics, foreign policy, international diplomacy, and international security at the University of Amsterdam (UvA) and the Vrije University of Amsterdam (VU). I am also a <a href="https://leidenasiacentre.nl/people/mina-pollmann/">Researcher at the Leiden Asia Centre</a> and <a href="https://csds.vub.be/researcher/mina-pollmann/">Senior Associate Researcher at the Centre for Security, Diplomacy, and Strategy</a>. 
 
 My research interests are Japan’s security and diplomacy, the U.S.-Japan alliance, U.S. foreign policy, alliance politics, and Indo-Pacific security. I regularly write on these topics for <a href="https://thediplomat.com/authors/mina-pollmann/"><i>The Diplomat</i></a>, participate in Track 1.5 Dialogues such as the Japan Trilateral Forum and Indo-Pacific Dialogue, write reports for governmental audiences, and speak on these topics, including most recently at Georgetown University, University of Amsterdam, Leiden University, European University Institute (EUI), the Centre for Security, Diplomacy, and Strategy (CSDS), and the U.S. Foreign Service Institute.
 
