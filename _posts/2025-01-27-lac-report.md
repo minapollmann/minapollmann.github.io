@@ -1,9 +1,0 @@
----
-title: "Japan Reacts to the New US National Security Strategy"
-date: 2025-12-09
-categories: [blog]
-tags: [Japan, alliances, defense spending, US foreign policy, The Diplomat]
-excerpt: "The plan codifies demands for Japan to spend more on defense and increase its capabilities – efforts Japanese officials say are already underway."
----
-
-To read my article on Japan's reaction to the U.S. National Security Strategy - respectful insistence that Japan will set its own defense budget - click <a href="https://thediplomat.com/2025/12/japan-reacts-to-the-new-us-national-security-strategy/">here</a>.
