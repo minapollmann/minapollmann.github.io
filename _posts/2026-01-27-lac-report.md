@@ -45,7 +45,7 @@ impacts, or other natural disaster.
 
 For the full report, click <a href="https://leidenasiacentre.nl/okinawa-evacuation-plan-for-a-taiwan-crisis/">here</a>.
 
-For part one of my summary on The Diplomat, click <a href="https://leidenasiacentre.nl/okinawa-evacuation-plan-for-a-taiwan-crisis/">here</a>.
+For part one of my summary on The Diplomat, click <a href="https://thediplomat.com/2026/01/is-japan-prepared-to-evacuate-its-nationals-in-a-taiwan-war/">here</a>.
 
 Part two of my summary on The Diplomat is coming soon. 
 
