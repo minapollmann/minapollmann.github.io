@@ -1,9 +1,9 @@
 ---
-title: "Japan’s Southwest Islands in Focus at Latest Japan-US Defense Minister Meeting"
-date: 2026-01-23
+title: "Iran-Israel-US War Tests Japan’s Evolving Appetite for Collective Self-Defense"
+date: 2026-03-19
 categories: [blog]
-tags: [Japan, alliances, US foreign policy, The Diplomat]
-excerpt: "The Japanese islands closest to Taiwan are an increasingly focal point for the Japan-U.S. alliance."
+tags: [Japan, US foreign policy, Iran war, The Diplomat]
+excerpt: "Can Japan send the SDF to Hormuz? The key will be how Tokyo classifies the current situation - but that is complicated by the conflict’s origin in a preemptive U.S. attack."
 ---
 
-To read my article on the most recent U.S.-Japan Defense Ministers meeting and what that entails for Japan's southwestern islands - click <a href="https://thediplomat.com/2026/01/japans-southwest-islands-in-focus-at-latest-japan-us-defense-minister-meeting/">here</a>.
+To read my explainer on what Japan can and cannot do in the Iran war and the legal and political considerations that go into it, click <a href="https://thediplomat.com/2026/03/iran-israel-us-war-tests-japans-evolving-appetite-for-collective-self-defense/">here</a>.
