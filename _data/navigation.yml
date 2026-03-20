@@ -18,9 +18,5 @@ main:
     url: /recent/
 
 
-  - title: "Tags"
-    url: /tags/
-
-
   - title: "About Me"
     url: /about/
