@@ -47,5 +47,5 @@ For the full report, click <a href="https://leidenasiacentre.nl/okinawa-evacuati
 
 For part one of my summary on The Diplomat, click <a href="https://thediplomat.com/2026/01/is-japan-prepared-to-evacuate-its-nationals-in-a-taiwan-war/">here</a>.
 
-Part two of my summary on The Diplomat is coming soon. 
+For part two of my summary on The Diplomat, click <a href="https://thediplomat.com/2026/02/is-japan-ready-for-internal-displacement-sparked-by-a-taiwan-war/">here</a>.
 
