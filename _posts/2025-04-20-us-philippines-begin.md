@@ -2,7 +2,7 @@
 title: "US, Philippines Begin Balikatan Annual Drills With South China Sea in Mind"
 date: 2025-04-20
 categories: [blog]
-tags: [US, The Philippines, Japan, The Diplomat]
+tags: [US foreign policy, The Philippines, Japan, The Diplomat]
 excerpt: "In previewing the drills, military officials mentioned not only the disputed waterway but also the potential deterrent effect in the Taiwan Strait."
 ---
 

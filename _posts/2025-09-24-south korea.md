@@ -2,7 +2,7 @@
 title: "South Korea Mulls the US Push for ‘Strategic Flexibility’"
 date: 2025-09-24
 categories: [blog]
-tags: [South Korea, US, The Diplomat]
+tags: [South Korea, US foreign policy, The Diplomat]
 excerpt: "The top U.S. priority for alliance modernization is the one that causes the most concern for South Korea."
 ---
 
