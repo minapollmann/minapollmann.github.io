@@ -6,6 +6,10 @@ main:
     url: /values/
 
 
+  - title: "Interests"
+    url: /interests/
+
+
   - title: "Skills"
     url: /skills/
 
