@@ -111,9 +111,9 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: # "mailto:minapollmann@mailbox.org"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "mailto:m.e.pollmann@uva.nl"
+    - label: "LinkedIn"
+      icon: "LinkedIn"
       url: "https://www.linkedin.com/in/mina-pollmann-a7712855/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
