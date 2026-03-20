@@ -2,7 +2,7 @@
 title: "Japan’s Southwest Islands in Focus at Latest Japan-US Defense Minister Meeting"
 date: 2026-01-23
 categories: [blog]
-tags: [Japan, alliances, US foreign policy, The Diplomat]
+tags: [Japan, alliance policy, US foreign policy, The Diplomat]
 excerpt: "The Japanese islands closest to Taiwan are an increasingly focal point for the Japan-U.S. alliance."
 ---
 
