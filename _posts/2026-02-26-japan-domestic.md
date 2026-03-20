@@ -2,7 +2,7 @@
 title: "Japan Is Moving to Expand Defense Exports. Constitutional Revision Is a Bigger Ask."
 date: 2026-02-26
 categories: [blog]
-tags: [Japan, arms exports The Diplomat]
+tags: [Japan, arms exports, The Diplomat]
 excerpt: "While most Japanese lawmakers support revising the constitution, they are more divided on what, exactly, needs to change."
 ---
 
