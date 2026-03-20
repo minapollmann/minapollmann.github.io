@@ -2,7 +2,7 @@
 title: "Despite US Disapproval, Europe Eyes a Greater Role in the Indo-Pacific"
 date: 2025-06-05
 categories: [blog]
-tags: [France, EU, Shangri La Dialogue, The United States, The Diplomat]
+tags: [France, EU, US foreign policy, The Diplomat]
 excerpt: "The robust European presence at the Shangri-La Dialogue was just the latest indication that the EU seeks to defend its own interests in the Indo-Pacific region."
 ---
 

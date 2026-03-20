@@ -2,7 +2,7 @@
 title: "Greetings from Haarlem!"
 date: 2025-04-09
 categories: [blog]
-tags: [Netherlands, personal]
+tags: [Netherlands]
 excerpt: "Open to Work: A Japan scholar starting over in the Netherlands"
 ---
 
