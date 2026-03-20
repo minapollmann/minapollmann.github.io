@@ -2,7 +2,7 @@
 title: "The Iran-Israel-US War Is Reconfiguring US Force Posture in the Indo-Pacific"
 date: 2026-03-14
 categories: [blog]
-tags: [US foreign policy, Iran war, The Diplomat]
+tags: [US foreign policy, South Korea, Japan, Iran war, The Diplomat]
 excerpt: "The concentration of U.S. military assets in the Middle East is forcing allies like Japan and South Korea to ask themselves hard questions about U.S. reliability."
 ---
 
