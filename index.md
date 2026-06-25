@@ -8,6 +8,8 @@ excerpt: |
   <br>
   <br>
   <br>
+  <br>
+  <br>
 permalink: /
 redirect_from: 
   - /about/
