@@ -2,7 +2,7 @@
 title: "Putin’s Visit to Disputed Island Exacerbates Japan-Russia Tensions"
 date: 2026-08-20
 categories: [blog]
-tags: [Japan, US foreign policy, Iran war, The Diplomat]
+tags: [Japan, Russia, Northern Territories, island disputes, The Diplomat]
 excerpt: "The Kuril Islands/Northern Territories have been a constant thorn in Japan-Russia relations. Putin just made it worse."
 ---
 
